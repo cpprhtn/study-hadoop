@@ -1,2 +1,3 @@
 cpprhtn/HDFS_IO.class
 com/cpprhtn/App.class
+com/cpprhtn/wordcount/WordCountMapper.class

@@ -1,4 +1,4 @@
-package com.cpprhtn.MapreduceApp;
+package com.cpprhtn.MapReduceApp;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.LongWritable;

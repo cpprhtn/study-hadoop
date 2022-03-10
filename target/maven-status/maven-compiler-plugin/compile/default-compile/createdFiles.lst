@@ -1,9 +1,1 @@
-com/cpprhtn/MapReduceApp/DepartureDelayCount.class
-cpprhtn/HDFS_IO.class
-com/cpprhtn/App.class
-com/cpprhtn/wordcount/WordCount.class
-com/cpprhtn/wordcount/WordCountReducer.class
 com/cpprhtn/MapReduceApp/DelayCountReducer.class
-com/cpprhtn/common/AirlinePerformanceParser.class
-com/cpprhtn/MapReduceApp/DepartureDelayCountMapper.class
-com/cpprhtn/wordcount/WordCountMapper.class
